@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VinayakMK
 - 👀 I’m interested in UI/UX Design
-- 🌱 I’m currently Pursuing Btech in computer science
+- 🌱 I’m currently learning to become a full stack developer
 - 📫 How to reach me /vinayak-m-k
 
 <!---
